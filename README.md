@@ -8,11 +8,11 @@ I'm drawn to the intersection of **cloud architecture**, **fintech**, and **work
 
 ## About Me
 
-- 🎓 Computing Science @ Singapore Institute of Technology
-- 💼 Software Developer & Product Owner (Contract) — building cloud-based automation systems
-- ⚡ Reduced a client's manual accounting workload by **90%** through full-stack payment automation
-- 🔍 Deep interest in financial systems, reconciliation logic, and event-driven architecture
-- 🌏 Based in Singapore
+- Computing Science @ Singapore Institute of Technology
+- Software Developer & Product Owner (Contract) — building cloud-based automation systems
+- Reduced a client's manual accounting workload by **90%** through full-stack payment automation
+- Deep interest in financial systems, reconciliation logic, and event-driven architecture
+- Based in Singapore
 
 ---
 
