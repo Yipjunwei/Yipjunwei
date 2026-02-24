@@ -1,72 +1,86 @@
-# Hi, I'm Yip Jun Wei
+# Hey, I'm Jun Wei 
 
-I am a Computing Science undergraduate at the Singapore Institute of Technology who enjoys building practical systems that solve real business problems. I am especially interested in full stack development, cloud architecture, automation, and fintech integrations. I enjoy turning messy workflows into structured, scalable digital solutions.
+> *Computing Science undergrad at SIT — I build systems that automate the boring stuff and make businesses run smarter.*
 
-![Jun Wei's Stats](https://github-readme-stats.vercel.app/api?username=Yipjunwei&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I'm drawn to the intersection of **cloud architecture**, **fintech**, and **workflow automation**. Give me a messy manual process and I'll turn it into something structured, scalable, and serverless.
 
 ---
 
 ## About Me
 
-- Computing Science undergraduate at Singapore Institute of Technology  
-- Software Developer & Product Owner (Contract) building cloud-based automation systems  
-- Interested in serverless architecture, backend systems, and scalable cloud solutions  
-- Built a payment and accounting automation platform that reduced manual workload by 90%  
-- Strong interest in financial systems, reconciliation logic, and workflow optimisation  
+- 🎓 Computing Science @ Singapore Institute of Technology
+- 💼 Software Developer & Product Owner (Contract) — building cloud-based automation systems
+- ⚡ Reduced a client's manual accounting workload by **90%** through full-stack payment automation
+- 🔍 Deep interest in financial systems, reconciliation logic, and event-driven architecture
+- 🌏 Based in Singapore
 
 ---
 
-## What I’m Building
+## What I'm Building
 
-- Serverless payment automation systems using React, Node.js, AWS Lambda, and AWS S3  
-- API integrations with fintech SaaS platforms such as HitPay  
-- Event-driven systems with webhook validation and automated reconciliation  
-- WhatsApp notification automation using Twilio API  
-- Full-stack applications focused on performance, maintainability, and real business impact  
+```
+Serverless payment automation    →   React + Node.js + AWS Lambda + S3
+Fintech API integrations         →   HitPay payment processing
+Event-driven reconciliation      →   Webhook validation + automated matching
+WhatsApp notifications           →   Twilio API automation
+Full-stack web applications      →   Performance-first, maintainable, production-grade
+```
 
 ---
 
 ## Tech Stack
 
-### Frontend
-React, TypeScript, JavaScript, HTML, CSS  
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Backend
-Node.js, Express, REST APIs  
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-### Cloud & Infrastructure
-AWS Lambda, AWS S3, AWS EventBridge Scheduler  
+**Cloud & Infrastructure**
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
 
-### Database
-SQL, Supabase  
-
-### Other
-Webhook integration, Payment API integration, Workflow automation  
-
----
-
-## Currently Exploring
-
-- Scalable backend architecture patterns  
-- Cloud cost optimisation strategies  
-- System design principles for high-reliability systems  
-- Fintech infrastructure and payment processing systems  
+**Database**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 ## Key Project
 
 ### Payment & Accounting Automation Platform
-Built a serverless full-stack platform that automated billing workflows and reduced manual accounting processes by 90%. Integrated HitPay payment APIs and Twilio WhatsApp automation with secure webhook validation for real-time reconciliation and customer notifications.
+> Serverless · React · AWS Lambda · HitPay API · Twilio · Supabase
+
+Built a full-stack platform that completely automated a fleet rental company's billing and reconciliation workflow.
+
+- Integrated **HitPay payment APIs** for secure payment link generation and collection
+- Automated **WhatsApp reminders** via Twilio for outstanding invoices
+- Built **webhook validation** for real-time payment reconciliation
+- Cut manual accounting effort by **90%**
 
 ---
 
-## Get in Touch
+## Currently Exploring
 
-- LinkedIn: [YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/yipjunwei/)  
-- Portfolio: [YOUR_PORTFOLIO_LINK](https://junweisportfolio.vercel.app/)  
-- Email: [YOUR_EMAIL](wyipjun@gmail.com)  
+- Scalable backend architecture patterns
+- Cloud cost optimisation strategies
+- System design for high-reliability distributed systems
+- Fintech infrastructure and payment processing internals
 
 ---
 
-Thanks for visiting my profile. I am always open to collaborating on meaningful projects and discussing system design, cloud architecture, and fintech solutions.
+## Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yipjunwei/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://junweisportfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wyipjun@gmail.com)
+
+---
+
+*Always open to collaborating on meaningful projects — especially in system design, cloud architecture, and fintech. Let's build something useful.*
