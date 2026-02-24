@@ -1,4 +1,4 @@
-# Hey, I'm Jun Wei 
+# Hey, I'm Jun Wei 👋
 
 > *Computing Science undergrad at SIT — I build systems that automate the boring stuff and make businesses run smarter.*
 
@@ -6,17 +6,17 @@ I'm drawn to the intersection of **cloud architecture**, **fintech**, and **work
 
 ---
 
-## About Me
+## 🧠 About Me
 
-- Computing Science @ Singapore Institute of Technology
-- Software Developer & Product Owner (Contract) — building cloud-based automation systems
-- Reduced a client's manual accounting workload by **90%** through full-stack payment automation
-- Deep interest in financial systems, reconciliation logic, and event-driven architecture
-- Based in Singapore
+- 🎓 Computing Science @ Singapore Institute of Technology
+- 💼 Software Developer & Product Owner (Contract) — building cloud-based automation systems
+- ⚡ Reduced a client's manual accounting workload by **90%** through full-stack payment automation
+- 🔍 Deep interest in financial systems, reconciliation logic, and event-driven architecture
+- 🌏 Based in Singapore
 
 ---
 
-## What I'm Building
+## 🔨 What I'm Building
 
 ```
 Serverless payment automation    →   React + Node.js + AWS Lambda + S3
@@ -28,7 +28,7 @@ Full-stack web applications      →   Performance-first, maintainable, producti
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -52,21 +52,57 @@ Full-stack web applications      →   Performance-first, maintainable, producti
 
 ---
 
-## Key Project
+## 🚀 Key Project
 
 ### Payment & Accounting Automation Platform
 > Serverless · React · AWS Lambda · HitPay API · Twilio · Supabase
 
 Built a full-stack platform that completely automated a fleet rental company's billing and reconciliation workflow.
 
-- Integrated **HitPay payment APIs** for secure payment link generation and collection
-- Automated **WhatsApp reminders** via Twilio for outstanding invoices
-- Built **webhook validation** for real-time payment reconciliation
-- Cut manual accounting effort by **90%**
+- 🔗 Integrated **HitPay payment APIs** for secure payment link generation and collection
+- 📲 Automated **WhatsApp reminders** via Twilio for outstanding invoices
+- 🔄 Built **webhook validation** for real-time payment reconciliation
+- 📉 Cut manual accounting effort by **90%**
 
 ---
 
-## Currently Exploring
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yipjunwei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yipjunwei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yipjunwei&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⏱ This Week I Coded
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📡 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🐍 Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yipjunwei/yipjunwei/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🔭 Currently Exploring
 
 - Scalable backend architecture patterns
 - Cloud cost optimisation strategies
@@ -75,12 +111,16 @@ Built a full-stack platform that completely automated a fleet rental company's b
 
 ---
 
-## Get In Touch
+## 📬 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yipjunwei/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://junweisportfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wyipjun@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yipjunwei/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://junweisportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:wyipjun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-*Always open to collaborating on meaningful projects — especially in system design, cloud architecture, and fintech. Let's build something useful.*
+<p align="center"><i>Always open to collaborating on meaningful projects — especially in system design, cloud architecture, and fintech. Let's build something useful.</i></p>
