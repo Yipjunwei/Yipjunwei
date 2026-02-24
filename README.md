@@ -68,39 +68,12 @@ Built a full-stack platform that completely automated a fleet rental company's b
 
 ## GitHub Stats
 
-<p alignment="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yipjunwei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yipjunwei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yipjunwei&theme=tokyonight&hide_border=true" />
 </p>
 
-<p alignment="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yipjunwei&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ⏱ This Week I Coded
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## Eating My Contributions
-
-<p alignment="center">
-  <img src="https://raw.githubusercontent.com/yipjunwei/yipjunwei/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## Currently Exploring
 
