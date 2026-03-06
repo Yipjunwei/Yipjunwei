@@ -1,6 +1,6 @@
 # Hey, I'm Jun Wei
 
-> *Computing Science undergrad at SIT — I build systems that automate the boring stuff and make businesses run smarter.*
+> *Computing Science undergrad at SIT, I build systems that automate the boring stuff and make businesses run smarter.*
 
 I'm drawn to the intersection of **cloud architecture**, **fintech**, and **workflow automation**. Give me a messy manual process and I'll turn it into something structured, scalable, and serverless.
 
