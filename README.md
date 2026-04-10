@@ -97,4 +97,4 @@ Built a full-stack platform that completely automated a fleet rental company's b
 
 ---
 
-<p alignment="center"><i>Always open to collaborating on meaningful projects — especially in system design, cloud architecture, and fintech. Let's build something useful.</i></p>
+<p alignment="center"><i>Always open to collaborating on meaningful projects, especially in system design, cloud architecture, and fintech. Let's build something useful.</i></p>
