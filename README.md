@@ -71,7 +71,6 @@ Built a full-stack platform that completely automated a fleet rental company's b
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yipjunwei&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yipjunwei&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yipjunwei&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yipjunwei&theme=tokyonight" />
 </p>
