@@ -67,7 +67,9 @@ Built a full-stack platform that completely automated a fleet rental company's b
 ---
 
 ## GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yipjunwei&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&show=prs_merged_percentage" />
+</p>
 
 
 <p align="center">
